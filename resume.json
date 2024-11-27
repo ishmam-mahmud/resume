@@ -3,10 +3,10 @@
   "basics": {
     "name": "Ishmam Mahmud",
     "label": "Software Engineer",
-    "image": "",
+    "image": "./assets/profile.jpg",
     "email": "ishmam.mahmud@proton.me",
     "phone": "+85264667413",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "I have earned a degree in HKUST and worked in GitStart for 2.5 years. Most of my work focuses on backend development of macroservices, while working on side projects of running a 5000 strong Discord community and a custom bot for it. I also write fiction in my spare time and play various games, and can talk about it all.",
     "location": {
       "city": "Hong Kong",
       "countryCode": "HK",
@@ -29,18 +29,30 @@
     {
       "name": "GitStart Limited",
       "location": "Hong Kong, HK",
-      "description": "Endlessly scale your engineering",
       "position": "Software Engineer",
       "url": "https://gitstart.com/",
       "startDate": "2022-06-01",
-      "summary": "Use remote developers and AI agents to seamlessly scale your eng team up and down as needed. Simply assign us tickets and we'll handle the rest.",
+      "summary": "Backend development: Built multiple macroservices for various domains",
       "highlights": [
-        "Backend development: Built multiple macroservices",
         "API for integrations with various ticketing systems like Linear, GitHub and Jira",
         "Build and run client repos in containerized and secure environments",
         "Orchestrate hundreds of long-running background jobs daily",
         "Ingest thousands of webhooks from GitHub and other sources and process them async, preserving order of processing",
         "Various API services to implement business logic in different domains"
+      ]
+    },
+    {
+      "name": "Credit Suisse (Hong Kong) Limited",
+      "location": "Hong Kong, HK",
+      "position": "Summer Technical Analyst",
+      "url": "https://www.credit-suisse.com/",
+      "startDate": "2021-06-21",
+      "endDate": "2021-08-27",
+      "summary": "Built a tool for monitoring stragies used in risk aggregation pipelines",
+      "highlights": [
+        "Tool built from scratch using Next.js for both backend and frontend",
+        "Analyze elasticsearch and jaeger traces as data sources to generate reports and analytics on reports and performance",
+        "Full frontend and backend testing using Jest and Cypress"
       ]
     }
   ],
@@ -76,6 +88,18 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "The Asexual and Aromantic Spectrum Discord",
+      "position": "Moderator",
+      "url": "http://discord.gg/aasd",
+      "startDate": "2020-12-17",
+      "summary": "Community to discuss various topics around Asexuality, Pride and to just hang out",
+      "highlights": [
+        "Server has 5000+ members"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Software Engineering",
@@ -86,6 +110,9 @@
         "Python",
         "PostgreSQL",
         "Docker",
+        "C++",
+        "C",
+        "Java",
         "AWS"
       ]
     }
@@ -121,35 +148,41 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Lumafly",
+      "description": "A Discord bot for managing Discord roles and preserving quotes",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Specific to AASD server, serves 5000+ people",
+        "Using TypeScript, Discord.js, Prisma and Supabase",
+        "Templates and scripts to generate boilerplate for command and event handlers"
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+        "Discord",
+        "TypeScript",
+        "Prisma"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "http://missdirection.example.com",
+      "startDate": "2021-01-20",
+      "url": "https://github.com/ishmam-mahmud/lumafly-bot",
       "roles": [
-        "Team lead",
-        "Designer"
+        "Sole Developer"
       ],
-      "entity": "Smoogle",
-      "type": "application"
+      "type": "bot"
+    },
+    {
+      "name": "Autovoid",
+      "description": "A Discord bot for automatically deleting messages from a channel to create a void",
+      "highlights": [
+        "Simple Elixir GenServer and http call API to run deletions every minute"
+      ],
+      "keywords": [
+        "Discord",
+        "Elixir"
+      ],
+      "startDate": "2023-06-05",
+      "url": "https://github.com/ishmam-mahmud/autovoid",
+      "roles": ["Sole Developer"],
+      "type": "bot"
     }
   ],
   "meta": {
