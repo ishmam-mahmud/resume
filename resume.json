@@ -1,0 +1,161 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ishmam Mahmud",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "ishmam.mahmud@proton.me",
+    "phone": "+85264667413",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Hong Kong"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ishmam-mahmud",
+        "url": "https://github.com/ishmam-mahmud"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Ishmam Mahmud",
+        "url": "https://www.linkedin.com/in/ishmam-mahmud/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GitStart Limited",
+      "location": "Hong Kong, HK",
+      "description": "Endlessly scale your engineering",
+      "position": "Software Engineer",
+      "url": "https://gitstart.com/",
+      "startDate": "2022-06-01",
+      "summary": "Use remote developers and AI agents to seamlessly scale your eng team up and down as needed. Simply assign us tickets and we'll handle the rest.",
+      "highlights": [
+        "Backend development: Built multiple macroservices",
+        "API for integrations with various ticketing systems like Linear, GitHub and Jira",
+        "Build and run client repos in containerized and secure environments",
+        "Orchestrate hundreds of long-running background jobs daily",
+        "Ingest thousands of webhooks from GitHub and other sources and process them async, preserving order of processing",
+        "Various API services to implement business logic in different domains"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hong Kong University of Science and Technology",
+      "url": "https://hkust.edu.hk/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-05-30",
+      "score": "3.911",
+      "courses": [
+        "COMP1021 - Introduction to Computer Science",
+        "COMP1029J - Java Programming Bridging Course",
+        "COMP2011 - Programming with C++",
+        "COMP2012 - Object-Oriented Programming and Data Structures",
+        "COMP3031 - Principles of Programming Languages",
+        "COMP3311 - Database Management Systems",
+        "COMP3511 - Operating Systems",
+        "COMP4441 - Computer Music",
+        "COMP4461 - Human-Computer Interaction",
+        "COMP4651 - Cloud Computing and Big Data Systems",
+        "ELEC1010 - Electronic and Information Technology",
+        "ELEC1020 - Media Production: Technology and Design",
+        "ELEC1100 - Introduction to Electro-Robot Design",
+        "ELEC1200 - A System View of Communications: from Signals to Packets",
+        "ELEC2350 - Introduction to Computer Organization and Design",
+        "ELEC2400 - Electronic Circuits",
+        "ELEC2600 - Probability and Random Processes in Engineering",
+        "ELEC3120 - Computer Communication Networks",
+        "ELEC3300 - Introduction to Embedded Systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Master",
+      "keywords": [
+        "Elixir",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Bangla",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gaming",
+      "keywords": [
+        "RPGs",
+        "Indie",
+        "Shooters"
+      ]
+    },
+    {
+      "name": "Writing",
+      "keywords": [
+        "Science Fiction",
+        "Fantasy"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "http://missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "jsonresume-theme-even"
+  }
+}

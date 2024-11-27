@@ -1,0 +1,18 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "render": "resumed render",
+    "init": "resumed init",
+    "validate": "resumed validate"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.23.0",
+    "resumed": "^4.0.0"
+  }
+}
