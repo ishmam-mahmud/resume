@@ -6,7 +6,7 @@
     "image": "./assets/profile.jpg",
     "email": "ishmam.mahmud@proton.me",
     "phone": "+85264667413",
-    "summary": "I have earned a degree in HKUST and worked in GitStart for 2.5 years. Most of my work focuses on backend development of macroservices, while working on side projects of running a 5000 strong Discord community and a custom bot for it. I also write fiction in my spare time and play various games, and can talk about it all.",
+    "summary": "I have worked in GitStart for 2.5 years. Most of my work focuses on backend development of macroservices, while working on side projects of running a 5000 strong Discord community and a custom bot for it. I also write fiction in my spare time and play various games, and can talk about it all.",
     "location": {
       "city": "Hong Kong",
       "countryCode": "HK",
@@ -64,28 +64,7 @@
       "studyType": "Bachelor",
       "startDate": "2018-09-01",
       "endDate": "2022-05-30",
-      "score": "3.911",
-      "courses": [
-        "COMP1021 - Introduction to Computer Science",
-        "COMP1029J - Java Programming Bridging Course",
-        "COMP2011 - Programming with C++",
-        "COMP2012 - Object-Oriented Programming and Data Structures",
-        "COMP3031 - Principles of Programming Languages",
-        "COMP3311 - Database Management Systems",
-        "COMP3511 - Operating Systems",
-        "COMP4441 - Computer Music",
-        "COMP4461 - Human-Computer Interaction",
-        "COMP4651 - Cloud Computing and Big Data Systems",
-        "ELEC1010 - Electronic and Information Technology",
-        "ELEC1020 - Media Production: Technology and Design",
-        "ELEC1100 - Introduction to Electro-Robot Design",
-        "ELEC1200 - A System View of Communications: from Signals to Packets",
-        "ELEC2350 - Introduction to Computer Organization and Design",
-        "ELEC2400 - Electronic Circuits",
-        "ELEC2600 - Probability and Random Processes in Engineering",
-        "ELEC3120 - Computer Communication Networks",
-        "ELEC3300 - Introduction to Embedded Systems"
-      ]
+      "score": "3.911"
     }
   ],
   "volunteer": [
