@@ -5,7 +5,7 @@
     "label": "Software Engineer",
     "image": "./assets/profile.jpg",
     "email": "ishmam.mahmud@proton.me",
-    "summary": "I have worked in GitStart for 2.5 years. Most of my work focuses on backend development of macroservices, while working on side projects of running a 5000 strong Discord community and a custom bot for it. I also write fiction in my spare time and play various games, and can talk about it all.",
+    "summary": "Software Engineer who specializes in design and architecture of complex systems, with a focus on backend. I'm based in Hong Kong, but my day is spent on EU timezones, working in the afternoon and nights, spending my mornings as leisure.",
     "location": {
       "city": "Hong Kong",
       "countryCode": "HK",
@@ -145,7 +145,9 @@
       ],
       "startDate": "2023-06-05",
       "url": "https://github.com/ishmam-mahmud/autovoid",
-      "roles": ["Sole Developer"],
+      "roles": [
+        "Sole Developer"
+      ],
       "type": "bot"
     }
   ],
