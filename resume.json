@@ -33,11 +33,13 @@
       "startDate": "2022-06-01",
       "summary": "Backend development: Built multiple macroservices for various domains",
       "highlights": [
-        "API for integrations with various ticketing systems like Linear, GitHub and Jira",
-        "Build and run client repos in containerized and secure environments",
-        "Orchestrate hundreds of long-running background jobs daily",
-        "Ingest thousands of webhooks from GitHub and other sources and process them async, preserving order of processing",
-        "Various API services to implement business logic in different domains"
+        "API for integrations with various ticketing systems like Linear, GitHub and Jira, syncing thousands of issues and tickets daily",
+        "Build and run client repos in containerized and secure environments, using existing Dockerfiles in repos to ensure any tech stack could be built",
+        "Orchestrate hundreds of long-running background jobs daily, allowing GitSlice to push and pull in between hundreds of client repos and their gitsliced internal equivalents",
+        "Built a webhook processing engine which ingests thousands of webhooks from GitHub, Slack and other sources to process them async, while preserving order of processing",
+        "Modify the above engine to support internal webhooks between our macroservices, creating an internal message queue-ing service which handles thousands of internal messages and notifications daily",
+        "Built or contributed code to around 30 different GraphQL based macroservices serving different domains/concerns for GitStart",
+        "Stitched together all the macroservices into a federated GraphQL gateway service for easier consumption of APIs by our frontends and other clients. This gateway would go on to handle about 700000 GraphQL requests daily during workdays"
       ]
     }
   ],
