@@ -31,6 +31,7 @@
       "position": "Software Engineer",
       "url": "https://gitstart.com/",
       "startDate": "2022-06-01",
+      "endDate": "2025-01-07",
       "summary": "Backend development: Built multiple macroservices for various domains",
       "highlights": [
         "API for integrations with various ticketing systems like Linear, GitHub and Jira, syncing thousands of issues and tickets daily",
@@ -81,23 +82,6 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Gaming",
-      "keywords": [
-        "RPGs",
-        "Indie",
-        "Shooters"
-      ]
-    },
-    {
-      "name": "Writing",
-      "keywords": [
-        "Science Fiction",
-        "Fantasy"
-      ]
-    }
-  ],
   "projects": [
     {
       "name": "Lumafly",
@@ -141,6 +125,6 @@
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
     "version": "v1.0.0",
     "lastModified": "2017-12-24T15:53:00",
-    "theme": "jsonresume-theme-even"
+    "theme": "jsonresume-theme-kendall"
   }
 }
