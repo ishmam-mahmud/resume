@@ -14,12 +14,10 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "ishmam-mahmud",
         "url": "https://github.com/ishmam-mahmud"
       },
       {
         "network": "LinkedIn",
-        "username": "Ishmam Mahmud",
         "url": "https://www.linkedin.com/in/ishmam-mahmud/"
       }
     ]
@@ -52,7 +50,7 @@
       "studyType": "Bachelor",
       "startDate": "2018-09-01",
       "endDate": "2022-05-30",
-      "score": "3.911"
+      "score": "3.911/4.3"
     }
   ],
   "skills": [
@@ -85,7 +83,7 @@
   "projects": [
     {
       "name": "Lumafly",
-      "description": "A Discord bot for managing Discord roles and preserving quotes",
+      "description": "https://github.com/ishmam-mahmud/lumafly-bot - A Discord bot for managing Discord roles and preserving quotes",
       "highlights": [
         "Specific to AASD server, serves 5000+ people",
         "Using TypeScript, Discord.js, Prisma and Supabase",
@@ -105,7 +103,7 @@
     },
     {
       "name": "Autovoid",
-      "description": "A Discord bot for automatically deleting messages from a channel to create a void",
+      "description": "https://github.com/ishmam-mahmud/autovoid - A Discord bot for automatically deleting messages from a channel to create a void",
       "highlights": [
         "Simple Elixir GenServer and http call API to run deletions every minute"
       ],
